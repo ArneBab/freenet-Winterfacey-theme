@@ -204,7 +204,7 @@ a:hover {
 #navbar:before {
   display: block;
   float: left;
-  content: url("http://127.0.0.1:8888/CHK@jrL1TD8AN6zP~zgBXP0wmH2IJJcgnDCNtB8f0-62a-g,hoNuI2ZRS5d7sH2w-7CXJC2~ODnEClBAJTuOFHxiOVQ,AAMC--8/logo-navbar.png");
+  content: url("/static/logo.png");
   margin-left: 5px;
   margin-top: 2px;
   width: 50px;
